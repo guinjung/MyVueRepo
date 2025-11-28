@@ -18,7 +18,6 @@ phases:
   post_build:
     commands:
       - echo post Building
-        #      - aws s3 sync ./dist s3://vue-website-99 --delete
 artifacts:
   files:
     - dist/**/*
