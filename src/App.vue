@@ -12,7 +12,7 @@ import HelloWorld from './components/HelloWorld.vue'
     </a>
   </div>
   <!--<HelloWorld msg="Vite + Vue" /> //-->
-  <HelloWorld msg="Jenkins Done!!" />
+  <HelloWorld msg="deploy!!" />
 </template>
 
 <style scoped>
