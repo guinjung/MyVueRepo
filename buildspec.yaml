@@ -22,4 +22,5 @@ artifacts:
   files:
     - dist/**/*
     - appspec.yaml
-    - scripts/**/* discard-paths: no
+    - scripts/**/*
+  discard-paths: no
